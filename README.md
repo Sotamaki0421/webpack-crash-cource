@@ -1,1 +1,1 @@
-# webpack-crash-cource
+# webpack-crash-course
